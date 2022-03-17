@@ -31,11 +31,9 @@
 #### Programming Languages:- 
 
 &emsp;
-&emsp;
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 &emsp;
 [![JavaScript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-&emsp;
 &emsp;
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
 &emsp;
@@ -55,33 +53,13 @@
 &emsp;
 
 #### Technologies & Tools:-
-
-emsp;
 [![Figma](https://img.shields.io/badge/Figma-3d3d3d?style=for-the-badge&logo=Figma&logoColor=e04a34)](https://www.figma.com/)
 &emsp;
 [![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
 &emsp;
-emsp;
 [![Visual Stodio Code](https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)](https://code.visualstudio.com/)
 
 --
  
-## Status
-<details>
-<summary>GitHub Status</summary>
-
-<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanDwedar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbdelrahmanDwedar's GitHub stats" /></a>
-
-<a href="http://www.github.com/AbdelrahmanDwedar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanDwedar&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/AbdelrahmanDwedar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanDwedar&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-</details>
-<details>
-</details>
-
----
-
----
 
 
