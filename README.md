@@ -15,8 +15,6 @@
   age: 14,
   country: "Jordan"
   available_languages: [
-    "C++",
-    "Python",
     "JavaScript",
     "HTML",
     "CSS"
