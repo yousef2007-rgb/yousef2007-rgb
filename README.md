@@ -29,14 +29,8 @@
 ## <img src="https://user-images.githubusercontent.com/67812625/137175204-80bbeb5c-b861-4328-a801-a759791f5aa1.png" width="55" alt="Languages"> My Experiences
 
 #### Programming Languages:- 
-
-&emsp;
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-&emsp;
 [![JavaScript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-&emsp;
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
-&emsp;
+
 ### Markup Languages:-
 
 [![HTML](https://img.shields.io/badge/Html5-E54C21?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
