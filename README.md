@@ -1,15 +1,13 @@
 <link href="/assets/styles.css" rel="stylesheet"></link>
-<h1 align="center"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hey" width="40"> Hey there,<br> I'm Yousef Aburadi</h1> 
+<h1 align="center">Yousef Aburadi</h1> 
 
----
 
-## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> About Me <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="290" align="right">
 * **Self-tought** developer.
 * **Software** developer.
 * Currentlly **highschool student**.
 * Hopes to be a **senior software engneer**.
 
-```cpp
+```js
 {
   name: "Yousef Aburadi",
   age: 15,
