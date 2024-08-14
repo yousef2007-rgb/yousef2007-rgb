@@ -5,12 +5,11 @@
 * **Self-tought** developer.
 * **Software** developer.
 * Currentlly **highschool student**.
-* Hopes to be a **senior software engneer**.
 
 ```js
 {
   name: "Yousef Aburadi",
-  age: 15,
+  age: 16,
   country: "Jordan"
   available_languages: [
     "JavaScript",
